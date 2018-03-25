@@ -8,3 +8,4 @@ Frontend code screen exercise 1:
 Exercise 2:
 ----------
 	js/populationGrowth.js
+	images/ScratchWork-populationGrowth.jpeg
